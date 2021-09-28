@@ -156,7 +156,8 @@ font-size: 35px;
 
 #servicios .bloque-servicio
 {
-  border:1px solid gray;
+  box-shadow: 5px 10px 8px #888888;
+  border:.2px solid gray
 }
 
 #servicios .bloque-servicio .bloque-img-servicio img {
